@@ -12,4 +12,4 @@ def get_primary_diagonal(matrix):
         diagonal_sum += matrix[i][i]
     return diagonal_sum
 
-print(get_primary_diagonal(read_matrix()))  
+print(get_primary_diagonal(read_matrix()))
